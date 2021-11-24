@@ -1,0 +1,22 @@
+body
+{
+background: orange;
+color: red;
+}
+.heading
+{
+width: 94%;
+font-size: 23px;
+font-family:cursive; 
+}
+.name_of_objects,#result_object_name, #result_object_accuracy
+{
+    color:blueviolet;
+    font-family:unset
+}
+#camera
+{
+    border: 2px dashed  blueviolet;
+    width: 375px;
+    height:325px;
+}
